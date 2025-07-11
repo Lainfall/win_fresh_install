@@ -59,3 +59,9 @@ from git.
 - [Taiga](https://taiga.moe/)
 
 8_ Install current played game, this will be probably remembered every time that I need a clean install, but no harm to remember.
+
+---
+
+### TODO
+- Scripts that downloads installers from step 4_
+- Main script that handles all other scripts
